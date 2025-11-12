@@ -272,7 +272,7 @@ This section goes a little deeper into using Linux commands to manipulate the da
 
 ---
 
-I decided to break this into two parts. Stay tuned for part 2.
+Due to the length of post, I decided to break this into two parts. Stay tuned for part 2.
 
 ---
 
